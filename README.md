@@ -1,5 +1,6 @@
-# 9th GRADE
-9th grade's documents!
+# G9
 
-## Copyright
-Copyright (c) Skool +.
+## License
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) license.
